@@ -16,7 +16,7 @@
     博客    https://centamatcha.github.io/
     B站     https://space.bilibili.com/248156984
     邮箱    506215287@qq.com
-    QQ      506215287      （ATRI 机器人 QQ：1955977248）
+    QQ      506215287
     微信    Gao-CHxl-506215287
 -->
 
@@ -43,7 +43,6 @@
 
 - 用兴趣驱动折腾：机器人、个人站、AI 语音、视频剪辑，想到什么就做什么。
 - 正在维护一只 24 小时不打烊的 QQ 聊天机器人 **ATRI**。
-- 相信「这里是一间我精心打理的房间」，所以什么都愿意亲手做一遍。
 - 大部分内容在[**我的博客**](https://centamatcha.github.io/)里，欢迎随便看看。
 
 ### ATRI CHAT BOT
@@ -51,7 +50,7 @@
 > 基于 [AstrBot](https://github.com/AstrBotDevs/AstrBot) 与 NapCat 搭建，跑在 Linux 云服务器上，通过 QQ 账号接入。
 > 无论白天还是深夜，发来消息都会第一时间回应。
 
-**QQ：`1955977248`** ｜ 主动问候 · 吃什么 · 今日运势 · 长期记忆 · 黑话学习 · 群聊参与
+**功能** ｜ 主动问候 · 吃什么 · 今日运势 · 长期记忆 · 黑话学习 · 群聊参与
 
 <sub>默认有聊天 token 限制，想解除限制来[找我](#-联系我)。</sub>
 
@@ -60,7 +59,7 @@
 | 作品 | 说明 | 入口 |
 | --- | --- | --- |
 | **个人博客** | 生活随笔 · 作品集 · 技术笔记，带画廊与音乐播放器 | [centamatcha.github.io](https://centamatcha.github.io/) |
-| **ATRI Chat Bot** | 24 小时在线的 QQ 机器人 | QQ `1955977248` |
+| **ATRI Chat Bot** | 24 小时在线的 QQ 机器人 | [博客 · ATRI](https://centamatcha.github.io/) |
 | **AI 翻唱 / 视频剪辑** | 碧蓝档案、赛马娘等二创视频与语音合成 | [B站主页](https://space.bilibili.com/248156984) |
 | **设计作品** | 早期的排版与视觉设计尝试 | [博客 · 首页](https://centamatcha.github.io/) |
 
@@ -89,5 +88,5 @@
 </div>
 
 <div align="center">
-<sub>© Centaurea抹茶 / Centa Lab · 这里是一间我精心打理的房间</sub>
+<sub>© Centaurea抹茶 / Centa Lab</sub>
 </div>
